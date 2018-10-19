@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RevisiFootbalMatch</string>
+    <string name="title_home">Prev</string>
+    <string name="title_dashboard">Next</string>
+    <string name="title_notifications">Favorite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
